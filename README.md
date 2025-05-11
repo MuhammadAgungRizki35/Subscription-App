@@ -1,4 +1,4 @@
-<h1>Subscription App</h1>
+<h1>Subscription App Laravel 12</h1>
 <h3>Deskripsi</h3>
 <p>Aplikasi langganan berbasis Laravel dengan 3 pilihan paket: A, B, dan C. Paket A berlaku selama 30 hari, Paket B selama 60 hari, dan Paket C selama 90 hari. Setelah masa aktif paket habis, status langganan pengguna akan berubah menjadi "tidak berlangganan".</p>
 <h3>Fitur</h3>
